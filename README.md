@@ -44,10 +44,10 @@ The folder final_output contains the results of the script execution. It include
 
 ## Author
 João Vitor Ferreira Pedro
-Engineering Student at UFSC
+Civil Engineer - UFSC
 GitHub: https://github.com/jvfpedro
 
-Daniel Tavare dos Anjos
-Engineering Student at UFSC
+Daniel Tavare dos Anjos (collaborator)
+Civil Engineer - UFSC
 GitHub: https://github.com/danieltanjos
 
