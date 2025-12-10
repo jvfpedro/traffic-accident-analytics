@@ -1,4 +1,4 @@
-# Traffic Accident Data Analysis
+# traffic-accident-analytics
 
 This is a study project for the *Computational Tools Applied to Civil Engineering* course at UFSC. The goal of this code is to analyze traffic accident data and identify high-concentration locations.
 
@@ -44,10 +44,10 @@ The folder final_output contains the results of the script execution. It include
 
 ## Author
 João Vitor Ferreira Pedro
-Civil Engineer - UFSC
-GitHub: https://github.com/jvfpedro
+[Civil Engineer - UFSC]
+[https://github.com/jvfpedro] [jvfpedro@gmail.com]
 
-Daniel Tavare dos Anjos (collaborator)
-Civil Engineer - UFSC
-GitHub: https://github.com/danieltanjos
+Daniel Tavares dos Anjos
+[collaborator]
+[https://github.com/danieltanjos]
 
